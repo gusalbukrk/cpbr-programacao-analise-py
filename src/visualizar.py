@@ -194,15 +194,15 @@ visao_geral.rename({
     'auditorium': 'Auditório',
 }, axis='columns', inplace=True)
 visao_geral_filtrada = dataframe_explorer(visao_geral, case=False)
+# #
+# # columns omitted in the list below will be hidden
+# column_order = ['Edição', 'Nome', 'Descrição', 'Eixos', 'Formato', 'Objetivo', 'Perfil do(s) organizador(es)', 'Organizador(es)', 'Início', 'Término', 'Auditório']
+# column_config = {
+#     'Eixos': st.column_config.ListColumn('Eixos', width='large'),
+#     'Organizador(es)': st.column_config.JsonColumn('Organizador(es)', width='large'),
+#     'Auditório': st.column_config.TextColumn(width='large'),
+#     'Início': st.column_config.DatetimeColumn(format="D MMM YYYY - HH:mm"),
+#     'Término': st.column_config.DatetimeColumn(format="D MMM YYYY - HH:mm"),
+# }
 #
-# columns omitted in the list below will be hidden
-column_order = ['Edição', 'Nome', 'Descrição', 'Eixos', 'Formato', 'Objetivo', 'Perfil do(s) organizador(es)', 'Organizador(es)', 'Início', 'Término', 'Auditório']
-column_config = {
-    'Eixos': st.column_config.ListColumn('Eixos', width='large'),
-    'Organizador(es)': st.column_config.JsonColumn('Organizador(es)', width='large'),
-    'Auditório': st.column_config.TextColumn(width='large'),
-    'Início': st.column_config.DatetimeColumn(format="D MMM YYYY - HH:mm"),
-    'Término': st.column_config.DatetimeColumn(format="D MMM YYYY - HH:mm"),
-}
-#
-st.dataframe(visao_geral_filtrada, hide_index=True, column_config=column_config, column_order=column_order)
+# st.dataframe(visao_geral_filtrada, hide_index=True, column_config=column_config, column_order=column_order)
