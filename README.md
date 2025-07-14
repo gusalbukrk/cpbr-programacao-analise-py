@@ -1,6 +1,6 @@
 # Programação da Campus Party Brasil: Uma Análise das Últimas 10 Edições
 
-Trabalho em andamento.
+Conforme [apresentado](https://app.4.events/palestrante-Luiz-Gustavo-Albuquerque-6117-c18443) na CPBR17 e [publicado](https://brasil.campus-party.org/revista-cientifica/) na edição 10 da revista científica da Campus Party.
 
 ## Como citar
 

@@ -7,7 +7,8 @@
     "cidade": "Goiânia",
     "ano": 2024,
     "dataInicio": "27-11",
-    "dataFinal": "01-12"
+    "dataFinal": "01-12",
+    "nome_alt": "CPGoiás4"
   },
   {
     "nome": "cpnordeste",
@@ -17,7 +18,8 @@
     "cidade": "São Lourenço da Mata",
     "ano": 2024,
     "dataInicio": "04-09",
-    "dataFinal": "08-09"
+    "dataFinal": "08-09",
+    "nome_alt": "CPNordeste"
   },
   {
     "nome": "cpbr16",
@@ -27,7 +29,8 @@
     "cidade": "São Paulo",
     "ano": 2024,
     "dataInicio": "09-07",
-    "dataFinal": "14-07"
+    "dataFinal": "14-07",
+    "nome_alt": "CPBR16"
   },
   {
     "nome": "cpbsb6",
@@ -37,7 +40,8 @@
     "cidade": "Brasília",
     "ano": 2024,
     "dataInicio": "27-03",
-    "dataFinal": "31-03"
+    "dataFinal": "31-03",
+    "nome_alt": "CPBSB6"
   },
   {
     "nome": "cpamazonia",
@@ -47,7 +51,8 @@
     "cidade": "Manaus",
     "ano": 2023,
     "dataInicio": "11-10",
-    "dataFinal": "15-10"
+    "dataFinal": "15-10",
+    "nome_alt": "CPAmazônia"
   },
   {
     "nome": "cpbr15",
@@ -57,7 +62,8 @@
     "cidade": "São Paulo",
     "ano": 2023,
     "dataInicio": "25-07",
-    "dataFinal": "30-07"
+    "dataFinal": "30-07",
+    "nome_alt": "CPBR15"
   },
   {
     "nome": "cpgoias3",
@@ -67,7 +73,8 @@
     "cidade": "Goiânia",
     "ano": 2023,
     "dataInicio": "07-06",
-    "dataFinal": "11-06"
+    "dataFinal": "11-06",
+    "nome_alt": "CPGoiás3"
   },
   {
     "nome": "cpbsb5",
@@ -77,7 +84,8 @@
     "cidade": "Brasília",
     "ano": 2023,
     "dataInicio": "05-04",
-    "dataFinal": "09-04"
+    "dataFinal": "09-04",
+    "nome_alt": "CPBSB5"
   },
   {
     "nome": "cpbr14",
@@ -87,7 +95,8 @@
     "cidade": "São Paulo",
     "ano": 2022,
     "dataInicio": "11-11",
-    "dataFinal": "15-11"
+    "dataFinal": "15-11",
+    "nome_alt": "CPBR14"
   },
   {
     "nome": "cpgoias2",
@@ -97,6 +106,7 @@
     "cidade": "Goiânia",
     "ano": 2022,
     "dataInicio": "15-06",
-    "dataFinal": "19-06"
+    "dataFinal": "19-06",
+    "nome_alt": "CPGoiás2"
   }
 ]

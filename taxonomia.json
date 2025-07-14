@@ -1,0 +1,158 @@
+{
+  "eixos": [
+    {
+      "nome": "Inteligência Artificial",
+      "descricao": "Processamento de Linguagem Natural, Robôs Autônomos, Aprendizado de Máquina, Visão Computacional, IA Generativa, Ética e Regulação de IA, Codificação Assistida por IA, IA na Saúde, IA na Educação, IA no Agronegócio, IA na Indústria, IA em Finanças."
+    },
+    {
+      "nome": "Cultura Maker",
+      "descricao": "Impressão 3D, Hardware, Eletrônica, Foguetemodelismo, Robótica, Arduino, Raspberry Pi e similares, Internet das Coisas (IoT). Não incluir atividades puramente artesanais ou artísticas sem componente tecnológico explícito."
+    },
+    {
+      "nome": "Sustentabilidade Ambiental",
+      "descricao": "Tecnologias Sustentáveis, Energia Renovável, Reciclagem, Descarte Sustentável."
+    },
+    {
+      "nome": "Astronomia e Exploração Espacial",
+      "descricao": "Tecnologia Espacial, Observação Astronômica, Cosmologia e Astrofísica."
+    },
+    {
+      "nome": "Games",
+      "descricao": "Jogos Eletrônicos, Jogos de Tabuleiro, RPGs, Desenvolvimento de Jogos, Design de Jogos, eSports, Realidade Virtual/Aumentada, Game Demo ou Freeplay, Psicologia dos Jogos."
+    },
+    {
+      "nome": "Saúde",
+      "descricao": "Telemedicina, Bioinformática, Dispositivos Vestíveis, Prontuário Eletrônico, Saúde mental."
+    },
+    {
+      "nome": "Gastronomia",
+      "descricao": "Tecnologia de Alimentos, Bioimpressão 3D."
+    },
+    {
+      "nome": "Cibersegurança",
+      "descricao": "Segurança da Informação, Criptografia, Hacking Ético, Computação Forense."
+    },
+    {
+      "nome": "Desenvolvimento de Software e Cloud Computing",
+      "descricao": "Desenvolvimento Web, Desenvolvimento Mobile, Linguagens de programação, Banco de Dados, Arquitetura de Software, Metodologias de Desenvolvimento, Ferramentas de Desenvolvimento, Automação, DevOps, Google Cloud Platform, Amazon Web Services, Microsoft Azure."
+    },
+    {
+      "nome": "Ciência de Dados e Big Data",
+      "descricao": "Análise de Dados, Big Data, Visualização de Dados, Mineração de Dados, Modelagem Preditiva."
+    },
+    {
+      "nome": "Negócios, Empreendedorismo, Gestão e Marketing",
+      "descricao": "Empreendedorismo, Startups, Marketing Digital, Produtividade, Inovação, Gestão de Processos, Indústria 4.0."
+    },
+    {
+      "nome": "Aspectos Éticos e Legais da Tecnologia",
+      "descricao": "Ética na Tecnologia, Direito Digital, Desinformação."
+    },
+    {
+      "nome": "Inclusão e Diversidade",
+      "descricao": "Neurodiversidade, Inclusão Digital, Acessibilidade Digital, Tecnologia Assistiva, Diversidade Racial, Diversidade LGBTQ+, Mulheres em Tech."
+    },
+    {
+      "nome": "Arte, Design e Multimídia",
+      "descricao": "UX/UI Design, Design Gráfico, Produção Audiovisual, Efeitos Visuais, Ilustração e Animação Digital, Criação de Conteúdo Digital, Tatuagem, Artesanato, Música, Dança."
+    },
+    {
+      "nome": "Entretenimento e Cultura Geek",
+      "descricao": "Fandom, Cosplay, Colecionáveis, Cinema e Séries, Animes e Mangás, HQs e Quadrinhos, Ficção Científica. Este eixo não se aplica a atividades cujo foco principal é o ensino de conteúdo especializado ou informativo, mesmo com caráter lúdico, a não ser que o que está sendo ensinado seja um dos tópicos explicitamente listados neste próprio eixo."
+    },
+    {
+      "nome": "Desenvolvimento Profissional",
+      "descricao": "Liderança, Produtividade, Carreiras em Tecnologia, Soft Skills."
+    },
+    {
+      "nome": "Tecnologia na Educação",
+      "descricao": "Pedagogia, Tecnologia Educacional, Gamificação Educacional, EAD, Educação STEAM, Jogos Sérios. Este rótulo se aplica apenas a atividades que discutem a tecnologia como um recurso para otimizar o ensino-aprendizagem, ou cujo foco primário é apresentar uma ferramenta tecnológica educacional. Não o use para atividades que simplesmente ensinam sobre tecnologia. Use este rótulo com moderação; ele tem sido usado excessivamente."
+    },
+    {
+      "nome": "Web3",
+      "descricao": "Blockchain, Tokenomics, DeFi, Criptoativos e NFTs, Governança Descentralizada (DAO), Aplicações Descentralizadas (dApps), Contratos Inteligentes, Metaverso."
+    },
+    {
+      "nome": "Institucional",
+      "descricao": "Abertura e encerramento da edição da Campus Party e outras atividades institucionais diretamente relacionadas à marca Campus Party Brasil."
+    }
+  ],
+  "perfis": [
+    {
+      "nome": "Empresa",
+      "descricao": "organização com fins lucrativos."
+    },
+    {
+      "nome": "Instituição de ensino",
+      "descricao": "universidade, faculdade, escola técnica, centro de pesquisa educacional."
+    },
+    {
+      "nome": "Comunidade ou grupo de interesse",
+      "descricao": "grupo sem fins lucrativos focado em uma tecnologia, hobby ou causa específica. Entidades do Sistema S (SENAI, SENAC, SEBRAE, etc.) também se enquadram aqui."
+    },
+    {
+      "nome": "Órgão governamental",
+      "descricao": "entidade pública, excepto instituições de ensino."
+    },
+    {
+      "nome": "Especialista ou influenciador",
+      "descricao": "indivíduo com conhecimento especializado e/ou notória relevância em sua área de atuação."
+    }
+  ],
+  "formatos": [
+    {
+      "nome": "Palestra",
+      "descricao": "apresentação expositiva de um ou mais palestrantes para a audiência; o público é primariamente ouvinte."
+    },
+    {
+      "nome": "Workshop",
+      "descricao": "atividade prática e interativa focada em ensinar uma habilidade; o público aprende fazendo. Não inclui demonstrações rápidas ou o manuseio superficial de equipamentos."
+    },
+    {
+      "nome": "Painel de Discussão",
+      "descricao": "discussão entre múltiplos painelistas."
+    },
+    {
+      "nome": "Competição ou desafio",
+      "descricao": "maratonas de desenvolvimento (hackathons, game jams), maratonas de negócios, Olimpíadas de Conhecimento e desafios diversos (como pilotagem de drone e Just Dance)."
+    },
+    {
+      "nome": "Mentoria",
+      "descricao": "sessões de aconselhamento individual ou em grupo com especialistas."
+    },
+    {
+      "nome": "Exposição",
+      "descricao": "demonstração pública ou mostra de projetos, produtos ou artefatos tecnológicos."
+    },
+    {
+      "nome": "Meetup",
+      "descricao": "encontro de pessoas com interesses comuns para networking e discussão."
+    }
+  ],
+  "objetivos": [
+    {
+      "nome": "Educar sobre um tema",
+      "descricao": "transmitir conhecimento teórico sobre um tópico."
+    },
+    {
+      "nome": "Ensinar habilidades práticas",
+      "descricao": "focar no aprendizado e desenvolvimento de capacidades técnicas ou práticas através de atividades hands-on."
+    },
+    {
+      "nome": "Fomentar networking",
+      "descricao": "criar oportunidades para os participantes interagirem, fazerem conexões e trocarem contatos."
+    },
+    {
+      "nome": "Apresentar projeto, produto ou startup",
+      "descricao": "realizar demonstrações públicas e exibições de criações, produtos, jogos ou startups. Demos e freeplay de jogos também se enquadram aqui."
+    },
+    {
+      "nome": "Ativação de marca",
+      "descricao": "foco na promoção e engajamento do público com uma marca (seja ela corporativa ou marca pessoal de um influenciador). Exemplos comuns incluem a distribuição de brindes e meet & greet com influenciadores."
+    },
+    {
+      "nome": "Entreter",
+      "descricao": "foco em proporcionar diversão desde que não envolva a apresentação de projeto/produto ou ativação de marca."
+    }
+  ]
+}
